@@ -1,9 +1,0 @@
-El conjunto de datos está compuesto por cuatro tablas relacionadas:
--Sales
-Contiene las transacciones de venta realizadas en las diferentes tiendas, con su fecha, el producto que compro y la cantidad.
--Products
-Incluye información sobre los productos, categorías, costes y precios de venta.
--Stores
-Contiene información de las tiendas, incluyendo ciudad, ubicación y fecha de apertura.
--Inventory
-Muestra el stock disponible de cada producto en cada tienda.
