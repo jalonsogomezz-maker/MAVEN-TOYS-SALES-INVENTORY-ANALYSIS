@@ -33,7 +33,7 @@ El análisis se realizó sobre cuatro tablas relacionales:
 - Inventory: Niveles de inventario
 
 ## Modelo de Datos
-![Modelo de Datos](images/Modelado_de_datos.png)
+![Modelo de Datos](images/modelo_datos.png)
 
 ## Dashboard
 
