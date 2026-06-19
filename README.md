@@ -92,7 +92,14 @@ Los resultados obtenidos durante el análisis permitieron identificar varios asp
 - Las ventas se concentran en las grandes ciudades metropolitanas, lideradas por Ciudad de Mexico con aproximadanamente 1,65M$.
 - Colorbuds presentó la mayor presión de inventario, indicando un posible riesgo de rotura de stock que debe ser atendido de manera prioritaria, más aún sabiendo que Colorbuds es el segundo producto con mayor facturación en la empresa lo que supone que una falta de stock provocarian grandes perdidas en ventas.
 - El margen de beneficio global alcanzó aproximadamente el 28%, lo que quiere decir que por cada dolar que facture la empresa 0,28$ es beneficio. Reflejando así, una rentabilidad sólida del negocio.
+  ## Recomendaciones de Negocio
 
+A partir de los resultados obtenidos se proponen las siguientes acciones:
+
+- Priorizar la reposición de productos con elevada presión de inventario, especialmente Colorbuds y Barrel O' Slime.
+- Mantener una supervisión continua de los productos con mayor facturación para minimizar posibles pérdidas derivadas de roturas de stock.
+- Potenciar las categorías con menor participación en ingresos para reducir la dependencia de la categoría Toys.
+- Investigar posibles patrones estacionales en las ventas como potenciar picos y disminuir caidas.
 ## Herramientas Utilizadas
 
 - MySQL
