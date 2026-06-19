@@ -18,7 +18,7 @@ Utilizando SQL para la extracción y análisis de datos y Excel para la visualiz
 ## Metodología
 1. Validación y limpieza de datos.
 2. Análisis exploratorio (EDA).
-3. Desarrollo de consultas SQL orientadas a negocio.
+3. Desarrollo de consultas SQL.
 4. Construcción de KPIs.
 5. Diseño del dashboard en Excel.
 6. Elaboración de conclusiones y recomendaciones.
@@ -43,12 +43,12 @@ El análisis se realizó sobre cuatro tablas relacionales:
 
 Durante el análisis se desarrollaron los siguientes indicadores clave de rendimiento (KPIs):
 
-- Revenue Total
-- Units Sold
-- Total Profit
-- Profit Margin
+- Revenue Total: 14.444.572,35$
+- Units Sold: 1.090.565 unidades
+- Total Profit: 4.014.029$
+- Profit Margin: 28%
 
-Estos indicadores permiten evaluar el rendimiento global del negocio y sirven como punto de partida para el resto de análisis.
+Estos indicadores permiten evaluar el rendimiento global del negocio y entender el contexto del negocio.
 
 
 
@@ -56,11 +56,11 @@ Estos indicadores permiten evaluar el rendimiento global del negocio y sirven co
 
 ### Revenue Trend
 
-Se analizó la evolución temporal de los ingresos para identificar tendencias de crecimiento o desaceleración del negocio durante el periodo estudiado.
+Se analizó la evolución temporal de los ingresos para identificar tendencias de crecimiento o desaceleración del negocio durante el periodo estudiado. Gracias a este análisis pudimos ver que el periodo estudiado tiene un crecimiento positivo.
 
 ### Revenue por Categoría
 
-Se comparó el rendimiento económico de las distintas categorías de productos con el objetivo de identificar cuáles generan una mayor contribución a los ingresos totales.
+Se comparó el rendimiento económico de las cinco categorías de productos con el objetivo de identificar cuáles generan una mayor contribución a los ingresos totales viendo que la que más factura es la categoria de Juguetes con una cifra de 5.093.241$ siendo practicamente el doble de las otras categorias por separado.
 
 ### Top Productos por Revenue
 
