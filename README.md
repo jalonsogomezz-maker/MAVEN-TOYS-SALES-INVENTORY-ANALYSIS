@@ -65,23 +65,21 @@ La presencia de picos de ventas en determinados meses podría sugerir efectos de
 ### Revenue por Categoría
 
 Se comparó el rendimiento económico de las cinco categorías de productos con el objetivo de identificar cuáles generan una mayor contribución a los ingresos totales. Con ello, se vio que la que más factura es la categoria de Juguetes, con una cifra de 5.093.241$ siendo practicamente el doble de las otras categorias por separado. 
-Este dato nos da información clave ya que, nos da a entender que es la principal fuente de ingresos. La dependencia de un unico producto hace que suponga un riesgo por lo que seria conveniente diversificar las fuentes de ingresos y buscar alternativas para potenciar las demas lineas de productos.
+Este dato nos da información clave ya que, nos da a entender que es la principal fuente de ingresos. La dependencia en una unica categoria hace que suponga un riesgo por lo que seria conveniente diversificar las fuentes de ingresos y buscar alternativas para potenciar las demas lineas de productos.
 ### Top Productos por Revenue
 
 Se identificaron los productos con mayor facturación y como cabia esperar se trata de un producto dentro de la categoria Juguetes y ese producto es 'Lego Bricks' con una facturación de 2.388.882,63$ seguido de 'Colorbuds' con una facturación de 1.564.476,32$. Estos productos son fundamentales en el funcionamiento del negocio por lo que es muy importante un buen seguimiento de su stock para que no pueda haber ninguna rotura de stock. Por otra parte seria conveniente potenciar otros productos y analizar sus oportunidades de crecimiento para diversificar el riesgo del negocio.
 
 ### Revenue por Ciudad
 
-Se realizó un análisis geográfico de los ingresos para detectar las ciudades con mejor rendimiento comercial y comprender la distribución territorial de las ventas. Tras el anlaisis se vio que hay una enorme diferencia en cuanto a facturación entre las diferentes ciudades en las que opera la empresa, siendo la mejor ciudad Ciudad de Mexico con una cifra de 1.649.492,01$ y tras ella las principales ciudades metropolitanas del país. Como resultado yo considero que se deberían priorizar las ciudades con mayor volumen de ventas pero sin descuidar oportunidades de crecimiento en mercados secundarios.
-
-### Inventory Pressure Analysis
+Se realizó un análisis geográfico de los ingresos para detectar las ciudades con mejor rendimiento comercial y comprender la distribución territorial de las ventas. Tras el anlaisis se vio que hay una enorme diferencia en cuanto a facturación entre las diferentes ciudades en las que opera la empresa, siendo la mejor ciudad Ciudad de Mexico con una cifra de 1.649.492,01$ y tras ella las principales ciudades metropolitanas del país. Los resultados sugieren que la empresa debería priorizar las ciudades con mayor volumen de ventas, sin descuidar oportunidades de crecimiento en mercados secundarios.
 
 ### Inventory Pressure Analysis
 
 Para evaluar el riesgo potencial de rotura de stock, uno de los objetivos principales del estudio, se desarrolló un indicador de presión de inventario basado en la relación entre unidades vendidas y stock disponible.
 Este indicador nos muestra productos que tienen una velocidad de venta significativamente superior a la disponibilidad de inventario, lo que podría provocar problemas de abastecimiento si la demanda continúa aumentando.
 Los resultados muestran que Colorbuds presenta la mayor presión sobre inventario (90,1), seguido por Barrel O' Slime (71,5) y Play-Doh Can (43,4).
-Para que se entienda, en colorbuds el volumen de ventas acumulado en el periodo estudiado es 90 veces superior al stock disponible.
+Lo que se quiere transmitir con este ratio es que en el caso de colorbuds el volumen de ventas acumulado en el periodo estudiado es 90 veces superior al stock disponible.
 La empresa debería priorizar la reposición de estos artículos y monitorizar periódicamente este indicador para evitar pérdidas de ventas provocadas por falta de stock.
 
 ## Principales Hallazgos
@@ -92,10 +90,8 @@ Los resultados obtenidos durante el análisis permitieron identificar varios asp
 - La categoría Toys generó más de 5M$ en ingresos, siendo la principal línea de negocio. Se aconseja diversificar y potenciar otras lineas de negocio para minimizar el riesgo de dependencia.
 - Lego Bricks fue el producto con mayor revenue, superando los 2,3M$.
 - Las ventas se concentran en las grandes ciudades metropolitanas, lideradas por Ciudad de Mexico con aproximadanamente 1,65M$.
-- Colorbuds presentó la mayor presión de inventario, indicando un posible riesgo de rotura de stock que debe ser atendido con gran urgencia. Además, Colorbuds es el segundo producto con mayor facturación en la empresa lo que supone una prioridad su reposición para evitar grandes perdidas en ventas, provocadas por su falta de stock.
-- Ciudad de México lideró las ventas con aproximadamente 1,65M$.
+- Colorbuds presentó la mayor presión de inventario, indicando un posible riesgo de rotura de stock que debe ser atendido de manera prioritaria, más aún sabiendo que Colorbuds es el segundo producto con mayor facturación en la empresa lo que supone que una falta de stock provocarian grandes perdidas en ventas.
 - El margen de beneficio global alcanzó aproximadamente el 28%, lo que quiere decir que por cada dolar que facture la empresa 0,28$ es beneficio. Reflejando así, una rentabilidad sólida del negocio.
-
 
 ## Herramientas Utilizadas
 
@@ -104,8 +100,6 @@ Los resultados obtenidos durante el análisis permitieron identificar varios asp
 - Excel
 - Power Query
 - GitHub
-
-
 
 ## Habilidades Demostradas
 
