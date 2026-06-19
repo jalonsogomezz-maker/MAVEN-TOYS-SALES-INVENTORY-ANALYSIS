@@ -68,7 +68,7 @@ Se comparó el rendimiento económico de las cinco categorías de productos con 
 Este dato nos da información clave ya que, nos da a entender que es la principal fuente de ingresos. La dependencia en una unica categoria hace que suponga un riesgo por lo que seria conveniente diversificar las fuentes de ingresos y buscar alternativas para potenciar las demas lineas de productos.
 ### Top Productos por Revenue
 
-Se identificaron los productos con mayor facturación y como cabia esperar se trata de un producto dentro de la categoria Juguetes y ese producto es 'Lego Bricks' con una facturación de 2.388.882,63$ seguido de 'Colorbuds' con una facturación de 1.564.476,32$. Estos productos son fundamentales en el funcionamiento del negocio por lo que es muy importante un buen seguimiento de su stock para que no pueda haber ninguna rotura de stock. Por otra parte seria conveniente potenciar otros productos y analizar sus oportunidades de crecimiento para diversificar el riesgo del negocio.
+Se identificaron los productos con mayor facturación siendo el primero un producto dentro de la categoria Juguetes y ese producto es 'Lego Bricks' con una facturación de 2.388.882,63$ seguido de 'Colorbuds' dentro de la categoria de electronica, con una facturación de 1.564.476,32$. Estos productos son fundamentales en el funcionamiento del negocio por lo que es muy importante un buen seguimiento de su stock para que no pueda haber ninguna rotura de stock. Por otra parte seria conveniente potenciar otros productos y analizar sus oportunidades de crecimiento para diversificar el riesgo del negocio.
 
 ### Revenue por Ciudad
 
@@ -109,7 +109,6 @@ A través de este proyecto se pusieron en práctica las siguientes competencias:
 - Joins
 - Aggregations
 - Common Table Expressions (CTEs)
-- Window Functions
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - KPI Development
